@@ -1,0 +1,20 @@
+{
+  "name": "guru-kripto",
+  "version": "4.1.0",
+  "private": false,
+  "description": "learn, share, and earn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git,
+    "url": "https://github.com/eshavaluble/guru-kripto"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eshavaluble/guru-kripto/issues"
+  },
+  "homepage": "https://github.com/eshavaluble/guru-kripto#readme"
+}
